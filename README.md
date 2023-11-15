@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack developer<br><br>🔭 I’m currently working on a lot of projects<br>👯‍♀️ I'm looking to collaborate on interesting project <br>🌱 I’m currently learning  React Native, TypeScript<br>📫 How to get in touch with me: rushchakheorgii@gmail.com
+I'm a full stack developer<br><br>🔭 I’m currently working on a lot of projects<br>👯‍♀️ I'm looking to collaborate on interesting project <br>🌱 I’m currently learning  Next.js<br>📫 How to get in touch with me: rushchakheorgii@gmail.com
 
 
 ## 🌐 Socials:
